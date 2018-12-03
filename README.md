@@ -7,4 +7,4 @@ part of code does...
 However if  you're sturggling to understand the code or would like me to update it with a commmented version then
 feel free to contact me :)
 
-Hope this helps enthusiasts, students and whoever else it ma benefit!
+Hope this helps enthusiasts, students and whoever else it may benefit!
